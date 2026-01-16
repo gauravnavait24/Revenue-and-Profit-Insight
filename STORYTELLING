@@ -1,0 +1,78 @@
+# 📊 Sales & Revenue Analysis Dashboard
+
+## 📌 Project Overview
+
+This project analyzes **sales performance from 2017 to 2020** using an interactive Tableau dashboard. The objective is to evaluate **revenue trends, profitability, market performance, customer contribution, product dependency, and sales channels** to support data-driven business decisions.
+
+---
+
+## 🔍 Key Metrics
+
+* **Total Revenue:** ₹12.91M
+* **Total Sales Quantity:** 10,339 units
+* **Total Profit:** ₹4.07K
+
+Despite strong revenue, overall profitability is low, indicating **thin margins and cost inefficiencies**.
+
+---
+
+## 📈 Time-Series Insights
+
+* **2018 is the best-performing year**, with peak monthly revenue of ~₹1.4M.
+* Revenue shows a **declining trend in 2019** and a **sharp drop in 2020**.
+* Sales display **seasonality**, with mid-year and year-end peaks.
+
+---
+
+## 🌍 Market Performance
+
+* **Mumbai** is the top revenue contributor and has the **highest profit margin (~19.8%)**.
+* **Delhi NCR** leads in sales quantity but generates lower margins.
+* **Bhopal** records negative profit, highlighting margin leakage.
+
+---
+
+## 🛒 Channel Analysis
+
+* **Brick & Mortar:** ~60% of total revenue
+* **E-Commerce:** ~40% of total revenue
+
+This indicates strong offline dominance with **high growth potential in online channels**.
+
+---
+
+## 👥 Customer Insights
+
+* Revenue is concentrated among a few **top customers**.
+* Some high-revenue customers contribute **low or negative profit**, increasing risk.
+
+---
+
+## 📦 Product Performance
+
+* **Prod018 alone contributes over ₹6.3M**, making it the dominant product.
+* Heavy reliance on a single product increases **business dependency risk**.
+
+---
+
+## ⚠️ Key Challenges Identified
+
+* Low profitability despite high revenue
+* Market-level margin inefficiencies
+* Over-dependence on specific customers and products
+* Revenue decline after 2018
+
+---
+
+## ✅ Strategic Recommendations
+
+* Optimize pricing and reduce costs in **low-margin markets**
+* Focus on **high-profit customers and products**
+* Expand and strengthen **E-commerce strategy**
+* Diversify product portfolio to reduce dependency
+
+---
+
+## 🎯 Business Takeaway
+
+While the company demonstrates strong revenue generation, **profitability and sustainability are key concerns**. Strategic optimization across **markets, customers, products, and channels** is essential for long-term growth.
